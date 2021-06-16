@@ -1,4 +1,4 @@
-# love-babbar-450
+# Love Babbar 450 Questions
 Target to solve all 450 questions by Love Babbar for coding interview.
 
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
